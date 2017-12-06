@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
+'''
 Created on Tue Aug 15 11:26:23 2017
 This script downloads from .ids files from NCBI database
 (from ftp://ftp.ncbi.nlm.nih.gov/genomes/GENOME_REPORTS/IDS/)
